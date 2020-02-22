@@ -1,0 +1,23 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+#potato_row {
+	height: 78vh;
+}
+
+.after {
+	transform: rotate(90deg);
+}
+
+.before {
+//	transform: rotate(-45deg);
+}
+
+.pink {
+	background-color: pink;
+}
+
+.meme {
+	background-image: url('../../assets/parabains.jpg');
+}
